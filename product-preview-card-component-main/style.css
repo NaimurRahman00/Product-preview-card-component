@@ -103,6 +103,10 @@ button {
     align-items: center;
     margin-top: 1.5rem;
 }
+button:hover{
+    background-color: var(--DarkCyanBackground);
+    cursor: pointer;
+}
 button span {
     font-weight: 500;
     margin-left: 1rem;
