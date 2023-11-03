@@ -103,7 +103,7 @@ button {
     align-items: center;
     margin-top: 1.5rem;
 }
-button h3 {
+button span {
     font-weight: 500;
     margin-left: 1rem;
 }
