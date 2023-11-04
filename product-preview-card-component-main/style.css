@@ -26,7 +26,6 @@ body {
 }
 .card {
     width: 40rem;
-    height: 30rem;
     display: flex;
     flex-direction: row;
     justify-content: center;
@@ -39,6 +38,7 @@ body {
 }
 .card .lap {
     width: 20rem;
+    height: 100%
     border-radius: .6rem 0rem 0rem .6rem;
     -webkit-border-radius: .6rem 0rem 0rem .6rem;
     -moz-border-radius: .6rem 0rem 0rem .6rem;
