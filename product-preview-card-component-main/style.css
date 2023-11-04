@@ -38,7 +38,7 @@ body {
 }
 .card .lap {
     width: 20rem;
-    height: 100%
+    height: 100%;
     border-radius: .6rem 0rem 0rem .6rem;
     -webkit-border-radius: .6rem 0rem 0rem .6rem;
     -moz-border-radius: .6rem 0rem 0rem .6rem;
