@@ -92,16 +92,16 @@ button {
     height: 3rem;
     color: var(--White);
     background-color: var(--DarkCyan);
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1.5rem;
     border: none;
     border-radius: .5rem;
     -webkit-border-radius: .5rem;
     -moz-border-radius: .5rem;
     -ms-border-radius: .5rem;
     -o-border-radius: .5rem;
-    display: inline-flex;
-    justify-content: center;
-    align-items: center;
-    margin-top: 1.5rem;
 }
 button:hover{
     background-color: var(--DarkCyanBackground);
